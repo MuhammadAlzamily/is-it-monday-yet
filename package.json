@@ -1,0 +1,14 @@
+{
+  "name": "is-it-monday-yet",
+  "version": "1.0.0",
+  "description": "A very helpful and very flexible package to help you find out if it's Monday yet, the package is fully tested plz contribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Monday"
+  ],
+  "author": "Muhammad Kareem",
+  "license": "MIT"
+}
