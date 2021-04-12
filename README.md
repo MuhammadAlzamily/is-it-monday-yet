@@ -9,6 +9,7 @@ Fell free to contribute to the project in any way, as soon as i figure out how g
 ***ways to contact the developer behind this project***
 
 Reddit : iiMoe
+
 Discord : TommyThicc#2048 
 
 #### *MIT license, since the cool kids always do this license thingy so yh do wuteva u want with this*
