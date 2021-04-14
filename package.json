@@ -9,6 +9,7 @@
   "keywords": [
     "Monday"
   ],
+  "repository": {"url": "https://github.com/MuhammadAlzamily/is-it-monday-yet"},
   "author": "Muhammad Kareem",
   "license": "MIT"
 }
