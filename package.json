@@ -1,6 +1,6 @@
 {
   "name": "is-it-monday-yet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A very helpful and very flexible package to help you find out if it's Monday yet, the package is fully tested plz contribute",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,9 @@
   "keywords": [
     "Monday"
   ],
-  "repository": {"url": "https://github.com/MuhammadAlzamily/is-it-monday-yet"},
+  "repository": {
+    "url": "https://github.com/MuhammadAlzamily/is-it-monday-yet"
+  },
   "author": "Muhammad Kareem",
   "license": "MIT"
 }
