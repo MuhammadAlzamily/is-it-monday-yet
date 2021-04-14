@@ -1,6 +1,6 @@
 {
   "name": "is-it-monday-yet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A very helpful and very flexible package to help you find out if it's Monday yet, the package is fully tested plz contribute",
   "main": "index.js",
   "scripts": {
