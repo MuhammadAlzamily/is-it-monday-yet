@@ -18,6 +18,5 @@ const info = mon.Monday_Or_Not(); // will return either true or false
 
 Discord : TommyThicc#2048 
 
-***[link to repo](https://github.com/MuhammadAlzamily/is-it-monday-yet)***
 
 #### *MIT license, since the cool kids always do this license thingy so yh do wuteva u want with this*
