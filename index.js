@@ -1,3 +1,3 @@
-function Monday_Or_Not(){
+module.exports = function() {
     return new Date().getDay() == 1;
-};
+}();
